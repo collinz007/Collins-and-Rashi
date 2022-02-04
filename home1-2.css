@@ -1,0 +1,97 @@
+.footer{ 
+	background-color: #2BADB8;
+	width: 100%;
+    
+}
+html, body {
+    margin: 0;
+    height: 100%;
+}   
+.navbar{
+    background-color: #2BADB8;
+    margin-left: 0px;
+}
+.searchbar{
+    margin-right: 20px;
+    
+    width: 377px;
+
+}
+.navbar a {
+   display: inline;
+   color: white;
+   text-decoration: none;
+   padding-right: 70px;
+
+
+}
+.navbar a:hover {
+    color: #FF4A49;
+}
+.navbar li{
+    display: inline;
+}
+
+.container2{
+    padding-top: 80px;
+    padding-bottom: 60px;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.container2 h1{
+    font-family: 'OpenSans';
+    font-size: 26px;
+    padding-bottom: 20px;
+}
+.container2 p{
+    font-size: 16px;
+    font-family:'OpenSans';
+}
+.container2 img{
+    float: right;
+}
+.container2 li{
+    padding-top: 20px;
+    font-size: 24px;
+    color: #2BADB8;
+
+}
+
+.container2 a{
+    color:#2BADB8 ;
+}
+.container3{
+    background-color:#2BADB8 ;
+    color: white;
+    padding-left: 40px;
+}
+
+.container3 a{
+    color: white;
+}
+.container3 p{
+    padding-top: 10px;
+    font-size: x-small;
+}
+
+.container-fluid{
+    background-color:#2BADB8;
+    width: 100%;
+    overflow: hidden;
+    
+
+    
+}
+.navbar a {
+   display: inline;
+   color: white;
+   text-decoration: none;
+   padding-right: 25px;
+
+}
+.navbar li{
+    display: inline;
+}
+
+   
+
